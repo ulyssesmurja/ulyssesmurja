@@ -6,4 +6,4 @@
 
 - ✨ Created and evolving [Linkme.bio](https://linkme.bio) tool;
 - 🇪🇪 Enjoying Eesti ja õpin Eesti Keelt;
-- 🚀 I'm currently working at **YOLO Group**
+- 🚀 I'm currently working at **YOLO Group**;
