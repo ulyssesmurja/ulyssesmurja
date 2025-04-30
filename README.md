@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Frontend Developer working in Tallinn, Estonia.
+#### I'm a Head of Product with a hands-on coding edge. Working in Tallinn, Estonia.
 
 ##### NOW
 
